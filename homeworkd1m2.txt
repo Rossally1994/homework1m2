@@ -1,0 +1,4 @@
+1) L'algoritmo è un insieme finito di step per la risoluzione di un problema. Definisce chiaramente l'input e lo trasforma nell'output desiderato. 
+2) Le variabili sono contenitori di dati parzialmente lavorati. Bisogna dichiararle, assegnando loro un'etichetta tramite la keyword let. 
+In seguito si assegna un valore usando "=".
+3) Null è un tipo specifico di informazione che significa che non c'è nessun valore assegnato alla variabile. Undefined invece viene usato in mancanza di definizione.
